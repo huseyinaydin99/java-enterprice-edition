@@ -1,15 +1,5 @@
-
-/**
- * SelamWSStub.java
- *
- * This file was auto-generated from WSDL
- * by the Apache Axis2 version: 1.6.3  Built on : Jun 27, 2015 (11:17:49 BST)
- */
 package tr.com.huseyinaydin;
 
-/*
-*  SelamWSStub java implementation
-*/
 
 //بسم الله الرحمن الرحيم
 /**
@@ -23,7 +13,6 @@ package tr.com.huseyinaydin;
 public class SelamWSStub extends org.apache.axis2.client.Stub {
 	protected org.apache.axis2.description.AxisOperation[] _operations;
 
-	// hashmaps to keep the fault mapping
 	private java.util.HashMap faultExceptionNameMap = new java.util.HashMap();
 	private java.util.HashMap faultExceptionClassNameMap = new java.util.HashMap();
 	private java.util.HashMap faultMessageMap = new java.util.HashMap();
